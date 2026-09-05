@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/739098228382329920/4f5ff760241d420ba3a0e5c507570f19/artifacts
+end_time: 1788457592298
+entry_point_name: ''
+experiment_id: '739098228382329920'
+lifecycle_stage: active
+run_id: 4f5ff760241d420ba3a0e5c507570f19
+run_name: victorious-crane-664
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1788457589149
+status: 3
+tags: []
+user_id: codespace

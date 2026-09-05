@@ -1,0 +1,10 @@
+artifact_location: mlflow-artifacts:/739098228382329920/models/m-214f878200ab4394a4ec99e67859910b/artifacts
+creation_timestamp: 1788457589181
+experiment_id: '739098228382329920'
+last_updated_timestamp: 1788457592255
+model_id: m-214f878200ab4394a4ec99e67859910b
+model_type: ''
+name: movie_genre_model
+source_run_id: 4f5ff760241d420ba3a0e5c507570f19
+status: 2
+status_message: null
